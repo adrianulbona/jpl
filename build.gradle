@@ -1,0 +1,12 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+dependencies {
+    compile files('lib/jpl.jar')
+}
+
+mainClassName = "ro.utcn.cs.pl.Test"
+
+run {
+    args "pl/logic.pl"
+}
