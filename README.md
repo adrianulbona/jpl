@@ -2,8 +2,8 @@ Gradle Setup for Java bindings to SWI-Prolog
 ===
 
 Dependencies:
-- JRE 8 32bit
-- SWI-Prolog 6.6.6 32bit
+- JDK 8 32bit
+- SWI-Prolog 6.6.6 32bit (add it's 'bin' folder to the PATH variable)
 
 Getting started:
 - Clone this repo.
