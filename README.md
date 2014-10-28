@@ -9,4 +9,4 @@ Getting started:
 - Clone this repo.
 - Run the example predicate with the following commands: 'gradlew run'
 
-You can modify the Prolog or Java code and test it without manually recompile it, just type again: 'gradle run'
+You can modify the Prolog or Java code and test it without manually recompile it, just type again: 'gradlew run'
