@@ -1,7 +1,5 @@
-jpl
+Gradle Setup for Java bindings to SWI-Prolog
 ===
-
-tests of Java bindings to SWI-Prolog
 
 Dependencies:
 - JRE 8
