@@ -17,6 +17,6 @@ public class ZenQueensSolver {
     }
 
     public List<Map<String, int[]>> solve() {
-        return engine.runQuery("find_zen_queens([1,2,3,4,5,6,7,8], ZenBoard)");
+        return engine.runQuery("find_zen_queens([0,1,2,3,4,5,6,7], ZenBoard)");
     }
 }

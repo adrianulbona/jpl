@@ -1,4 +1,4 @@
-package ro.utcn.cs.pl.queens;
+    package ro.utcn.cs.pl.queens;
 
 import javafx.application.Application;
 import javafx.event.EventHandler;

@@ -21,5 +21,5 @@ find_zen_queens(Board, ZenBoard):-
 	potential_conflicts(ZenBoard, PotentialConflicts), 
 	zen_queens(PotentialConflicts).
 
-all_zen_queens(All):-findall(ZenBoard, find_zen_queens([1,2,3,4,5,6,7,8], ZenBoard), All).
+all_zen_queens(All):-findall(ZenBoard, find_zen_queens([0,1,2,3,4,5,6,7], ZenBoard), All).
 
