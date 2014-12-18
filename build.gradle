@@ -5,7 +5,7 @@ dependencies {
     compile files('lib/jpl.jar')
 }
 
-mainClassName = "ro.utcn.cs.pl.Test"
+mainClassName = "ro.utcn.cs.pl.queens.ZenQueensApp"
 
 run {
     args "pl/logic.pl"
